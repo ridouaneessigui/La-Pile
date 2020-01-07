@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1425282409 source:c:\users\yacine\desktop\la_pile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+
